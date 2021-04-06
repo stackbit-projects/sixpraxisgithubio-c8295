@@ -11,7 +11,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: SixPraxis - Personal Blog
+  title: SixPraxis - Blog
   extra:
     - name: 'og:type'
       value: website
