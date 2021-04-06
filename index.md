@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Fresh Theme
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: Personal blog of SixPraxis. Write-Ups and other things.
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
