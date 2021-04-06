@@ -17,7 +17,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fresh Theme
+      value: SixPraxis - Blog
       keyName: property
     - name: 'og:description'
       value: The preview of the Fresh theme
