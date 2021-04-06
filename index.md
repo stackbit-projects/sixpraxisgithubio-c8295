@@ -35,5 +35,6 @@ seo:
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
+  description: Personal blog of SixPraxis. Write-Ups and other things.
 layout: advanced
 ---
