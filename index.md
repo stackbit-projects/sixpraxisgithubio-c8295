@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fresh Theme
+      value: SixPraxis - Blog
     - name: 'twitter:description'
       value: Personal blog of SixPraxis. Write-Ups and other things.
     - name: 'twitter:image'
