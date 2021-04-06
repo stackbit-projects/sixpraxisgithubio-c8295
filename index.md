@@ -25,9 +25,6 @@ seo:
       value: SixPraxis - Blog
     - name: 'twitter:description'
       value: Personal blog of SixPraxis. Write-Ups and other things.
-    - name: 'twitter:image'
-      value: images/4.jpg
-      relativeUrl: true
     - name: 'og:description'
       value: Personal blog of SixPraxis. Write-Ups and other things.
       keyName: property
