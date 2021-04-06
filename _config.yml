@@ -82,4 +82,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-domain: 'https://sixpraxisgithubio-c8295.netlify.app'
+domain: 'https://sixpraxis.github.io'
